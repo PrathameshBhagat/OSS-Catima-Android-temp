@@ -21,7 +21,6 @@ permissions:
   security-events: none
   statuses: none
 
-
 jobs:
   update-gradle-wrapper:
     runs-on: ubuntu-latest
