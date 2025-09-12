@@ -32,4 +32,4 @@ jobs:
       - name: Update Gradle Wrapper
         uses: gradle-update/update-gradle-wrapper-action@v2
         env:
-          GITHUB_TOKEN: ${{ secrets.Update Gradle PAT}}
+          GITHUB_TOKEN: ${{ secrets.UPDATE_GRADLE_PAT}}
